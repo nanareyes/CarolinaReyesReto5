@@ -2,7 +2,9 @@
 
 Este es un proyecto en Java con un modelo vista controlador que se conecta a una base de datos SQLite 3 y permite generar tres diferentes informes en ventanas JFrame. 
 
-En la siguiente imagen se muestra la ventana principal donde se selecciona el informe que se desea consultar:
+[En este link](https://www.loom.com/share/fa611d1a03844a89a4689591ab69b407) se puede ver el vídeo con la presentación del proyecto y a continuación se relacionan las imagenes de las diferentes ventanas. 
+
+La primer ventana, es la principal y desde aquí se selecciona el informe que se desea consultar:
 
 ![Screenshot from 2021-08-20 12-57-10](https://user-images.githubusercontent.com/87030548/130274790-784468c2-bfe7-492c-b7a3-4a1416423725.png)
 
