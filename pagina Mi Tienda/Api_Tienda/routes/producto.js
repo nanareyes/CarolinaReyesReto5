@@ -18,7 +18,7 @@ router.get('/productos', async (req, res) => {
         })
     }
 });
-
+/* 
 // Consultar un producto específico de la tienda
 router.get('/producto/:id', async (req, res) => {
 
@@ -95,6 +95,6 @@ router.put('/producto/:id', async (req, res) => {
 });
 
 
-
+ */
 // Exportamos la configuración de express app
 module.exports = router;
